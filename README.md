@@ -23,28 +23,15 @@ Data scientist / Data analyst
 * Библиотеки для анализа данных: pandas, numpy, matplotlib, seaborn, SHAP
 * Дополнительно: Agile Project Management, Big Data
 
-🖥️  Мои проекты:  
+⛏️  Мои проекты:  
+  - [Исследование паттернов покупательского поведения методами визуализации и снижения размерности. Дата сет "Customer Shopping Behaviour Analysis"](https://github.com/EvgeniiLebe/Study-of-consumer-behavior-patterns-by-methods-of-visualization-and-dimension-reduction.git) (Инструменты: Python, pandas, matplotlib, seaborn, plotly, sklearn (StandardScaler, PCA, TSNE))
+  - [Учебная задача: «Анализ вакансий из HeadHunter»](https://github.com/EvgeniiLebe/Project_SQL_HH/blob/main/Project_SQL_Evgenii_Lebed.ipynb) (Инструменты: Python, SQL, pandas, numpy, matplotlib, seaborn, psycopg2)
+🛠️  Хакатоны:
 ➡️[Хакатон: Анализ сайта «СберАвтоподписка»](https://github.com/EvgeniiLebe/sberAutopodpiska_ml_project)
 
   - Моя роль: подготовка данных, обучение моделей (CatBoost), оценка метрик, SHAP-анализ, упаковка модели в скрипт запуска.
   - Инструменты 🛠️: Python, pandas, scikit-learn, CatBoost, SHAP, matplotlib, seaborn.
   - Результат 🚩: построена модель с метрикой ROC-AUC 0.73.
-
-➡️[Учебная задача: «Анализ вакансий из HeadHunter»](https://github.com/EvgeniiLebe/Project_SQL_HH/blob/main/Project_SQL_Evgenii_Lebed.ipynb)
-
-  - Дата-сет: Выгрузка из HH, храниться в виде таблиц в СУБД PostgreSQL.
-  - Моя цель:
-    1. Провести детальный анализ вакансий и работодателей при помощи SQL-запросов,
-    2. Сделать общие выводы и рекомендации претендующим на позицию Data Scientist,
-    3. Составить гипотезы для дальнейших исследований.
-  - Инструменты 🛠️: Python, SQL, pandas, numpy, matplotlib, seaborn, psycopg2
-  - Результат 🚩:
-    1. Найти работу проще в Москве и Санкт-Петербурге, там больше работодателей и вакансий,
-    2. Оплата труда в сфере DS лучше за границей, далее идёт в Москва, Белгород (возможно выбросы) и Санкт-Петербург,
-    3. Сравнение требований к наличию знаний Python и SQL(или Postgres) говорит о нецелесообразности изучения SQL или Postgres без Python.
-    4. Предлагаемая средняя заработная плата демонстрирует практически двукратный рост в первые 2 года работы, дальше темпы прироста замедляется.
-
-🌍  Проживаю в г. Астрахань
 
 ✉️  Мои контакты:
 * [81092@mail.ru](mailto:81092@mail.ru)
