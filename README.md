@@ -36,7 +36,7 @@ Data scientist / Data analyst
       - Выявлено нарушение структуры данных - вероятно данные не были выгружены полностью из-за ошибочных параметров запроса,
       - Даны бизнес-рекомендаций по оптимизации товарное политики, маркетинговых активностей и программ лояльности на основе выявленных инсайтов.
 
-  - [Учебная задача: «Анализ вакансий из HeadHunter»](https://github.com/EvgeniiLebe/Project_SQL_HH/blob/main/Project_SQL_Evgenii_Lebed.ipynb)
+  - [Анализ вакансий из HeadHunter](https://github.com/EvgeniiLebe/Project_SQL_HH/blob/main/Project_SQL_Evgenii_Lebed.ipynb)
     - Инструменты: Python, SQL, pandas, numpy, matplotlib, seaborn, psycopg2
     - Результат 🚩:
       1. Проведён детальный анализ вакансий и работодателей при помощи SQL-запросов,
